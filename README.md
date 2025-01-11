@@ -1,19 +1,3 @@
-# F20-21SF Coursework Project
-
-> Author: 
-
-## Getting started:
- 
-- [ ] Fork project in personal space
-- [ ] Clone project on machine
-- [ ] Create first issue on GitLab
-- [ ] Edit code to address issue
-- [ ] Commit by referencing issue number
-- [ ] Push commits
-- [ ] Edit README 
-
-Refer to the instructions on published Canvas.
-
 ## Stage 1
 
 * Created UML class diagram for the collectible items and list of collectibles.
@@ -55,7 +39,7 @@ Refer to the instructions on published Canvas.
 # Painting.java
 * Created Painting subclass and also added attributes such as style, height and width.
 * Also added fromCSV to read from CSV files.
-# Jewellery,java
+# Jewellery.java
 * Created Jewellery subclass and added attributes such as type, material and gems.
 * Also added fromCSV to read from CSV files.
 # Books.java
